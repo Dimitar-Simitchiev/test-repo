@@ -1,2 +1,7 @@
 Toq fail e za html stranicata
+<<<<<<< HEAD
 glavna sttranica she e tuka
+=======
+
+tova shte bude glavnata stranica na saita!!!
+>>>>>>> f16fd46a7f0df75f9f92673d4577f897bc8750ff
